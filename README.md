@@ -1,11 +1,5 @@
 # Affects-of-Drugs-with-Gender
-Looking at re admission rates for males and females at the top level. Is this drug significantly affected with women and men. 
+Abstract:
 
+Diabetes is an issue that is increasing the Readmissions rate in hospitals in the United States. Its an issue that is not properly solved. More people are being readmitted back into hospitals due to the hospitals lack of care and quality when initially discharging their patients. Physiologically speaking, the male and female body have vastly different metabolisms, different body compositions, and different hormonal balances. Given the difference between the 2 types of bodies, I am looking at real patient data, from the UCI machine learning repository dataset, and their prescriptions to predict the insulin levels to see if the different levels of Insulin and other drugs affects if you have Diabetes or not based on if you are taking Diabetes Medication. 
 
-
-things to do from the list: (take my time, dont rush)
-1. really take the time to understand github
-2. now that I have my dictionary done, I need to see if there are more words that I need to add
-3. I want to add what ingredients are in these drugs
-4. check and recheck.....(have some sources)
-5. make connections to what ingredients are in all the of these drugs and do they have the same or similar ingredients
